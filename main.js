@@ -26,7 +26,7 @@ console.log("2. Use wordCount('some string') to test.")
 
 
 
-// Problem 3
+// Bonus problem
 
 var primeTime = function(x) {
 	var prime = true;
