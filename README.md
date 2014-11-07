@@ -1,4 +1,4 @@
-#Problem Set 1
+#Problem Set #1
 ##Requirements
 1. Write a function called letterCapitalize which takes a single string parameter and capitalizes the first letter of each word in the string. You can assume that words in the input string will be separated by only one space.
 
